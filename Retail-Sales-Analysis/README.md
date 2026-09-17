@@ -12,11 +12,11 @@ An interactive Power BI dashboard built using **10,000 retail sales records** to
 
 ### Customer & Product
 
-![Customer & Product](screenshots/Customer-Product.png)
+![Customer & Product](Retail-Sales-Analysis/screenshots/Customer & Product.png)
 
 ### Customer Details (Drill-through)
 
-![Customer Details](screenshots/Customer-Details.png)
+![Customer Details](Retail-Sales-Analysis/screenshots/Customer Details.png)
 
 ---
 
