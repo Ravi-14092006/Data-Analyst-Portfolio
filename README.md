@@ -12,17 +12,37 @@ I'm passionate about transforming raw data into meaningful business insights usi
 
 An interactive Power BI dashboard built using **10,000 customer loan records** to analyze loan performance, customer risk, branch performance, and approval trends.
 
-![Executive Overview](Bank-Loan-Risk-Analysis/Overview.png)
+![Bank Loan Overview](Bank-Loan-Risk-Analysis/screenshots/Overview.png)
 
-### 📊 Dashboard Highlights
+**Highlights**
 
-* **3-page interactive Power BI dashboard**
-* **Customer Drill-through** functionality
-* **Approval & Risk Analysis**
+* 3-page interactive Power BI dashboard
+* Customer Drill-through functionality
+* Approval & Risk Analysis
 * Branch and City performance insights
 * DAX KPI measures and interactive slicers
 
 📁 **Project Folder:** `Bank-Loan-Risk-Analysis`
+
+---
+
+## 🛍️ Retail Sales Analysis Dashboard
+
+An interactive Power BI dashboard built using **10,000 retail sales records** to analyze revenue, profit, customer behavior, and product performance.
+
+![Retail Sales Overview](Retail-Sales-Analysis/screenshots/Overview.png)
+
+**Highlights**
+
+* Executive sales KPI dashboard
+* Monthly revenue trend analysis
+* Top products & customer insights
+* Revenue by region and payment method
+* Customer Drill-through detail page
+
+📁 **Project Folder:** `Retail-Sales-Analysis`
+
+---
 
 ---
 
@@ -40,7 +60,7 @@ An interactive Power BI dashboard built using **10,000 customer loan records** t
 | Project                    | Tools                     | Status         |
 | -------------------------- | ------------------------- | -------------- |
 | 🏦 Bank Loan Risk Analysis | Power BI, SQL, Excel, DAX | ✅ Completed    |
-| 🛍️ Retail Sales Analysis  | SQL, Power BI             | 🔄 Coming Soon |
+| 🛍️ Retail Sales Analysis  | SQL, Power BI             | ✅ Completed |
 | 👥 HR Analytics Dashboard  | Power BI                  | 🔄 Coming Soon |
 | 🐍 Customer Churn Analysis | Python                    | 🔄 Coming Soon |
 
