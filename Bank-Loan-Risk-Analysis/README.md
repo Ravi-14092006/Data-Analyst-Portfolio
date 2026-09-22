@@ -8,7 +8,7 @@ An interactive **Power BI** dashboard built using **10,000 customer loan records
 
 ### Executive Overview
 
-![Overview](Overview.png)
+![Overview](Bank-Loan-Risk-Analysis/screenshots/Overview.png)
 
 ### Loan Risk & Performance
 
