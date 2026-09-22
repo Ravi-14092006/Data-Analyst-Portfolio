@@ -8,15 +8,15 @@ An interactive Power BI dashboard built using **10,000 employee records** to ana
 
 ### Overview
 
-![Overview](screenshots/Overview.png)
+![Overview](HR-Analytics/Screenshots/Overview.png)
 
 ### Employee & Department
 
-![Employee & Department](screenshots/Employee_Department.png)
+![Employee & Department](HR-Analytics/Screenshots/Employee_Department.png)
 
 ### Employee Details (Drill-through)
 
-![Employee Details](screenshots/Employee_Details.png)
+![Employee Details](HR-Analytics/Screenshots/Employee_Details.png)
 
 ---
 
