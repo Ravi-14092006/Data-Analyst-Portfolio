@@ -1,28 +1,28 @@
 # 👥 HR Analytics Dashboard
 
-An interactive Power BI dashboard built using **10,000 employee records** to analyze workforce performance, attrition, salaries, departments, and employee demographics.
+An interactive **Power BI** dashboard built using **10,000 employee records** to analyze workforce performance, employee attrition, salaries, department insights, and demographics.
 
 ---
 
 ## 📊 Dashboard Preview
 
-### Overview
+### Executive Overview
 
-![Overview](HR-Analytics/Screenshots/Overview.png)
+![Overview](Screenshots/Overview.png)
 
 ### Employee & Department
 
-![Employee & Department](HR-Analytics/Screenshots/Employee_Department.png)
+![Employee & Department](Screenshots/Employee_Department.png)
 
 ### Employee Details (Drill-through)
 
-![Employee Details](HR-Analytics/Screenshots/Employee_Details.png)
+![Employee Details](Screenshots/Employee_Details.png)
 
 ---
 
 ## 🎯 Business Problem
 
-HR teams need a centralized dashboard to monitor employee attrition, salary trends, department performance, and workforce demographics for better strategic decision-making.
+HR teams need a centralized dashboard to monitor employee attrition, salary trends, department performance, workforce demographics, and individual employee insights for better strategic decision-making.
 
 ---
 
@@ -35,24 +35,37 @@ HR teams need a centralized dashboard to monitor employee attrition, salary tren
 
 ---
 
+## ✨ Dashboard Features
+
+* Executive HR KPI dashboard
+* Employee attrition analysis
+* Salary & department insights
+* Job role performance analysis
+* Interactive slicers (Department, City & Gender)
+* Employee drill-through page
+
+---
+
 ## 📈 Key Insights
 
-* 10,000 employee records analyzed
-* Executive HR KPI dashboard
-* Department & job role analysis
-* Salary and performance insights
-* Employee drill-through detail page
-* Interactive slicers for Department, City & Gender
+* Analyzed **10,000 employee records**
+* Compared workforce distribution across departments
+* Identified attrition trends and salary patterns
+* Highlighted top job roles and high-performing employees
+* Enabled employee-level drill-through analysis
 
 ---
 
 ## 📁 Project Files
 
-* HR-Analytics-Dashboard.pbix
-* HR_Analytics_Dataset_10000.xlsx
-* Screenshots
+* `HR-Analytics-Dashboard.pbix`
+* `HR_Analytics_Dataset_10000.xlsx`
+* `Screenshots/Overview.png`
+* `Screenshots/Employee_Department.png`
+* `Screenshots/Employee_Details.png`
 
 ---
 
-**Author:** 
-S. Ravindranathan
+## 👨‍💻 Author
+
+**S. Ravindranathan**
