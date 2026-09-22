@@ -4,15 +4,23 @@ An interactive **Power BI** dashboard built using **10,000 customer loan records
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Executive Overview
 
 ![Overview](Bank-Loan-Risk-Analysis/screenshots/Overview.png)
 
+### Loan Risk Analysis
+
+![Risk Analysis](Bank-Loan-Risk-Analysis/screenshots/Risk-Analysis.png)
+
+### Customer Details (Drill-through)
+
+![Customer Details](Bank-Loan-Risk-Analysis/screenshots/Customer-Details.png)
+
 ---
 
-## 📌 Business Problem
+## 🎯 Business Problem
 
 Banks require a centralized dashboard to monitor loan performance, identify high-risk customers, compare branch performance, and support data-driven lending decisions.
 
@@ -27,31 +35,36 @@ Banks require a centralized dashboard to monitor loan performance, identify high
 
 ---
 
-## 📊 Features
+## ✨ Dashboard Features
 
-* Executive KPI Dashboard
-* Loan Approval Analysis
-* Risk Segmentation
-* Branch & City Performance
-* Interactive Slicers
-* Customer Drill-through
-
----
-
-## 💡 Key Insights
-
-* 10,000 customer loan applications analyzed
-* Branch-wise loan performance comparison
-* High-risk customer identification
-* Customer-level drill-through for detailed investigation
+* Executive KPI dashboard
+* Loan approval analysis
+* Risk segmentation
+* Branch & city performance insights
+* Interactive slicers
+* Customer drill-through page
 
 ---
 
-## 🚀 Skills Demonstrated
+## 📈 Key Insights
 
-* Data Cleaning
-* Data Modeling
-* DAX Measures
-* Interactive Drill-through
-* Business Intelligence
-* Data Visualization
+* Analyzed **10,000 customer loan records**
+* Compared approval trends across multiple branches
+* Identified high-risk customer segments
+* Enabled customer-level drill-through for detailed analysis
+
+---
+
+## 📁 Project Files
+
+* `Bank Loan Risk Analysis.pbix`
+* `Bank_Loan_Analysis.xlsx`
+* `screenshots/Overview.png`
+* `screenshots/Risk-Analysis.png`
+* `screenshots/Customer-Details.png`
+
+---
+
+## 👨‍💻 Author
+
+**S. Ravindranathan**
